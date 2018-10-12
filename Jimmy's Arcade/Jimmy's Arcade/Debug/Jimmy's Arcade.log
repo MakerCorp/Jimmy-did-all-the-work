@@ -1,4 +1,8 @@
 ﻿  Jimmy's Arcade.cpp
-c:\users\jp134125\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\jp134125\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Jimmy's Arcade.vcxproj -> C:\Users\jp134125\Desktop\Jimmy-did-all-the-work\Jimmy's Arcade\Debug\Jimmy's Arcade.exe
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\jimmy's arcade.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Jimmy's Arcade.vcxproj -> C:\Users\mf145884\Desktop\Jimmy-did-all-the-work\Jimmy's Arcade\Debug\Jimmy's Arcade.exe
