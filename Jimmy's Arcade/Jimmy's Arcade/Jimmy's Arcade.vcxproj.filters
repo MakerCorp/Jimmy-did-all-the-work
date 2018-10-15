@@ -26,6 +26,9 @@
     <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Tetris.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\Jimmy%27s Arcade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
