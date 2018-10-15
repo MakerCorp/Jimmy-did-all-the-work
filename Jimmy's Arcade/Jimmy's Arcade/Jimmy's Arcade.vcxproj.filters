@@ -21,6 +21,9 @@
     <ClInclude Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\stdafx.cpp">
@@ -30,6 +33,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\Jimmy%27s Arcade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
