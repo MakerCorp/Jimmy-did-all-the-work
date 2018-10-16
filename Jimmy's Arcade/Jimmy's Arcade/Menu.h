@@ -20,6 +20,6 @@ public:
 private:
 	int selectedItemIndex;
 	Font font;
-	Text text[Max_NUMBER_OF_ITEMS]
+	Text menu[Max_NUMBER_OF_ITEMS];
 
 };
