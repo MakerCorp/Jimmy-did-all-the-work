@@ -1,8 +1,8 @@
 ﻿  Tetris.cpp
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
 c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Jimmy's Arcade.vcxproj -> C:\Users\mf145884\Desktop\Jimmy-did-all-the-work\Jimmy's Arcade\Debug\Jimmy's Arcade.exe
