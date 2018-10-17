@@ -1,7 +1,1 @@
-﻿  Menu.cpp
-c:\users\jp134125\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\menu.cpp(14): error C4996: 'sf::Text::setColor': was declared deprecated
-  c:\users\jp134125\desktop\jimmy-did-all-the-work\external libraries\sfml\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
-c:\users\jp134125\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\menu.cpp(19): error C4996: 'sf::Text::setColor': was declared deprecated
-  c:\users\jp134125\desktop\jimmy-did-all-the-work\external libraries\sfml\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
-c:\users\jp134125\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\menu.cpp(24): error C4996: 'sf::Text::setColor': was declared deprecated
-  c:\users\jp134125\desktop\jimmy-did-all-the-work\external libraries\sfml\include\sfml\graphics\text.hpp(210): note: see declaration of 'sf::Text::setColor'
+﻿  Jimmy's Arcade.vcxproj -> C:\Users\jp134125\Desktop\Jimmy-did-all-the-work\Jimmy's Arcade\Debug\Jimmy's Arcade.exe

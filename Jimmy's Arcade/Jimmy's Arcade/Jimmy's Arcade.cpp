@@ -4,6 +4,7 @@
 #include "Menu.h"
 
 using namespace sf;
+using namespace std;
 
 int main()
 {
@@ -19,10 +20,40 @@ int main()
 		{
 			switch (event.type)
 			{
-			case Event::Closed:
-					window.close();
+			case Event::KeyReleased:
+				switch (event.key.code)
+				{
+				case Keyboard::Up:
+					menu.MoveUp();
+					break;
+
+				case Keyboard::Down:
+					menu.MoveDown();
+					break;
+
+				case Keyboard::Return:
+					switch (menu.GetPressedItem())
+					{
+					case 0:
+						cout << "Play button has been pressed" << std::endl;
+						break;
+					case 1:
+						cout << "Option button has been pressed" << std::endl;
+						break;
+					case 2:
+						window.close();
+						break;
+					}
 
 					break;
+				}
+
+				break;
+			case Event::Closed:
+				window.close();
+
+				break;
+
 			}
 		}
 

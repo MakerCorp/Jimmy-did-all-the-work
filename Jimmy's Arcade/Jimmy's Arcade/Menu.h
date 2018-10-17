@@ -5,7 +5,7 @@
 
 using namespace sf;
 
-#define Max_NUMBER_OF_ITEMS 3
+#define MAX_NUMBER_OF_ITEMS 3
 
 class Menu
 {
@@ -16,10 +16,11 @@ public:
 	void draw(RenderWindow &window);
 	void MoveUp();
 	void MoveDown();
+	int GetPressedItem() { return selectedItemIndex; }
 
 private:
 	int selectedItemIndex;
 	Font font;
-	Text menu[Max_NUMBER_OF_ITEMS];
+	Text menu[MAX_NUMBER_OF_ITEMS];
 
 };
