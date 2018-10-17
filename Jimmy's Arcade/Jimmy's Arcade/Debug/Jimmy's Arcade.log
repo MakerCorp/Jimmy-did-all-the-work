@@ -1,16 +1,8 @@
 ﻿  Tetris.cpp
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(51): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2589: '(': illegal token on right side of '::'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2144: syntax error: 'unknown-type' should be preceded by ')'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2144: syntax error: 'unknown-type' should be preceded by ';'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C3927: '->': trailing return type is not allowed after a non-function declarator
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C3484: syntax error: expected '->' before the return type
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C3613: missing return type after '->' ('int' assumed)
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2146: syntax error: missing ';' before identifier 'png'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2059: syntax error: ')'
-c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(130): error C2065: 'png': undeclared identifier
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
 c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\mf145884\desktop\jimmy-did-all-the-work\jimmy's arcade\jimmy's arcade\tetris.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Jimmy's Arcade.vcxproj -> C:\Users\mf145884\Desktop\Jimmy-did-all-the-work\Jimmy's Arcade\Debug\Jimmy's Arcade.exe
