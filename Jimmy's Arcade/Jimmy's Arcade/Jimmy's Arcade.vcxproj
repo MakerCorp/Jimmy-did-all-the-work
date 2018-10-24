@@ -156,7 +156,6 @@
     <ClInclude Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\Jimmy%27s Arcade.cpp" />
     <ClCompile Include="Tetris.cpp" />
     <ClCompile Include="..\..\Jimmy%27s Arcade\Jimmy%27s Arcade\stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
